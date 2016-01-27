@@ -88,7 +88,7 @@
 			children = (
 				27D9CDAB1C573627009EC787 /* CDPlayerInterface.swift */,
 			);
-			name = Interfaces;
+			path = Interfaces;
 			sourceTree = "<group>";
 		};
 		27D9CD971C56ECBE009EC787 /* State Machine Classes */ = {
@@ -100,7 +100,7 @@
 				27D9CD9C1C56EDDB009EC787 /* CDPPlaying.swift */,
 				27D9CD9E1C56EDF2009EC787 /* CDPPaused.swift */,
 			);
-			name = "State Machine Classes";
+			path = "State Machine Classes";
 			sourceTree = "<group>";
 		};
 		27D9CD981C56ECC9009EC787 /* App Delegate */ = {
@@ -108,7 +108,7 @@
 			children = (
 				27F8A74B1C53040F0000C118 /* AppDelegate.swift */,
 			);
-			name = "App Delegate";
+			path = "App Delegate";
 			sourceTree = "<group>";
 		};
 		27D9CD991C56ECD3009EC787 /* View Controllers */ = {
@@ -116,7 +116,7 @@
 			children = (
 				27D9CDA91C57265F009EC787 /* CDPlayerViewController.swift */,
 			);
-			name = "View Controllers";
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 		27D9CDA61C56F61B009EC787 /* Audio */ = {
@@ -128,6 +128,7 @@
 				27A9D5811C5852E70061F617 /* 5seconds.mp3 */,
 			);
 			name = Audio;
+			path = "Music Files";
 			sourceTree = "<group>";
 		};
 		27F8A73F1C53040F0000C118 = {

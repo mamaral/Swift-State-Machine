@@ -24,7 +24,7 @@ class CDPInterface: NSObject, AVAudioPlayerDelegate {
     var audioPlayer: AVAudioPlayer?
     var trackIndex: Int = 0
     let noTrackSelectedIndex: Int = -1
-    let trackNames: [String] = ["cold", "sail", "69", "5seconds"]
+    let trackNames: [String] = ["sail", "cold", "69", "5seconds"]
     let prevTrackThreshold: NSTimeInterval = 3
     var playbackTimer: NSTimer?
     var delegate: CDPInterfaceDelegate?
